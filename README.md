@@ -1,0 +1,2 @@
+# CursorAi
+Learning Cursor
